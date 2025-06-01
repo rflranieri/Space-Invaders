@@ -20,3 +20,15 @@ Este projeto foi criado como estudo e também para compor meu portfólio.
 
 ```bash
 git clone https://github.com/seu-usuario/Space-Invaders.git
+
+## Instale dependencias
+
+pip install -r requirements.txt
+
+Execute o jogo
+
+python main.py
+
+## LICENÇA
+
+Este projeto está sob a licença MIT - sinta-se livre para usar, estudar e modificar.
